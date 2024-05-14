@@ -16,4 +16,3 @@ To implement a calculator using LEX and YACC.
 # OUTPUT
 # RESULT
 The calculator is implemented using LEX and YACC and the output is verified.
-
